@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+
+# Archivos generados automáticamente
+log.txt
+ultima_ubicacion.json
+__pycache__/
+*.pyc
+
+# Archivos de configuración local
+# La plantilla SI se versiona (solo valores de ejemplo)
+.env
+!.env.example
+*.bat
+*.vbs
+# Archivos con secretos que no deben publicarse jamas
+_archivado_no_publicar/
